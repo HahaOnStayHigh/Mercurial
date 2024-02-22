@@ -13,7 +13,7 @@
 - Aimbot Smooth (Undetected) 
 - Aimbot Bone (Undetected) 
 - Aimbot Prediction (Undetected) 
-- Box ESP (Undetected) 
+- Box ESP (DETECTED) 
 - Skeleton (Undetected) 
 - Lines (Undetected) 
 - Player Names (Undetected) 
